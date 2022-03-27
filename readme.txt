@@ -1,2 +1,2 @@
-jenkngs test file
+Jenkins test file
 testing purpose
